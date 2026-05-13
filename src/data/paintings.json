@@ -1,0 +1,990 @@
+[
+  {
+    "title": "星夜",
+    "artist": "Vincent van Gogh",
+    "year": 1889,
+    "country": "United States of America",
+    "position": {
+      "lat": 40.7831,
+      "lng": -73.9712
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/starry-night-rhone.jpg",
+    "image": "/paintings/starry-night-rhone.jpg"
+  },
+  {
+    "title": "蒙娜丽莎",
+    "artist": "Leonardo da Vinci",
+    "year": 1503,
+    "country": "France",
+    "position": {
+      "lat": 48.8606,
+      "lng": 2.3376
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/mona-lisa.jpg",
+    "image": "/paintings/mona-lisa.jpg"
+  },
+  {
+    "title": "呐喊",
+    "artist": "Edvard Munch",
+    "year": 1893,
+    "country": "Norway",
+    "position": {
+      "lat": 59.9139,
+      "lng": 10.7522
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/the-scream.jpg",
+    "image": "/paintings/the-scream.jpg"
+  },
+  {
+    "title": "神奈川冲浪里",
+    "artist": "Katsushika Hokusai",
+    "year": 1831,
+    "country": "Japan",
+    "position": {
+      "lat": 35.6762,
+      "lng": 139.6503
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/great-wave.jpg",
+    "image": "/paintings/great-wave.jpg"
+  },
+  {
+    "title": "戴珍珠耳环的少女",
+    "artist": "Johannes Vermeer",
+    "year": 1665,
+    "country": "Netherlands",
+    "position": {
+      "lat": 52.0907,
+      "lng": 4.2803
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/pearl-earring.jpg",
+    "image": "/paintings/pearl-earring.jpg"
+  },
+  {
+    "title": "格尔尼卡",
+    "artist": "Pablo Picasso",
+    "year": 1937,
+    "country": "Spain",
+    "position": {
+      "lat": 40.4168,
+      "lng": -3.7038
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/guernica.png",
+    "image": "/paintings/guernica.png"
+  },
+  {
+    "title": "创世纪",
+    "artist": "Michelangelo",
+    "year": 1512,
+    "country": "Italy",
+    "position": {
+      "lat": 41.9029,
+      "lng": 12.4534
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/creation-adam.jpg",
+    "image": "/paintings/creation-adam.jpg"
+  },
+  {
+    "title": "最后的晚餐",
+    "artist": "Leonardo da Vinci",
+    "year": 1498,
+    "country": "Italy",
+    "position": {
+      "lat": 45.4642,
+      "lng": 9.19
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/last-supper.jpg",
+    "image": "/paintings/last-supper.jpg"
+  },
+  {
+    "title": "吻",
+    "artist": "Gustav Klimt",
+    "year": 1908,
+    "country": "Austria",
+    "position": {
+      "lat": 48.2082,
+      "lng": 16.3738
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/the-kiss.jpg",
+    "image": "/paintings/the-kiss.jpg"
+  },
+  {
+    "title": "维纳斯的诞生",
+    "artist": "Sandro Botticelli",
+    "year": 1485,
+    "country": "Italy",
+    "position": {
+      "lat": 43.7696,
+      "lng": 11.2558
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/venus-urbino.jpg",
+    "image": "/paintings/venus-urbino.jpg"
+  },
+  {
+    "title": "夜巡",
+    "artist": "Rembrandt van Rijn",
+    "year": 1642,
+    "country": "Netherlands",
+    "position": {
+      "lat": 52.3676,
+      "lng": 4.9041
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/night-watch.jpg",
+    "image": "/paintings/night-watch.jpg"
+  },
+  {
+    "title": "向日葵",
+    "artist": "Vincent van Gogh",
+    "year": 1888,
+    "country": "United Kingdom",
+    "position": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/sunflowers.jpg",
+    "image": "/paintings/sunflowers.jpg"
+  },
+  {
+    "title": "雾海上的旅人",
+    "artist": "Caspar David Friedrich",
+    "year": 1818,
+    "country": "Germany",
+    "position": {
+      "lat": 53.5511,
+      "lng": 9.9937
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/wanderer-fog.jpg",
+    "image": "/paintings/wanderer-fog.jpg"
+  },
+  {
+    "title": "拾穗者",
+    "artist": "Jean-François Millet",
+    "year": 1857,
+    "country": "France",
+    "position": {
+      "lat": 47,
+      "lng": 2
+    },
+    "priority": "low",
+    "thumbnail": "/paintings/gleaners.jpg",
+    "image": "/paintings/gleaners.jpg"
+  },
+  {
+    "title": "阿尔诺芬尼夫妇像",
+    "artist": "Jan van Eyck",
+    "year": 1434,
+    "country": "United Kingdom",
+    "position": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "priority": "low",
+    "thumbnail": "/paintings/arnolfini.jpg",
+    "image": "/paintings/arnolfini.jpg"
+  },
+  {
+    "title": "红黄蓝的构成",
+    "artist": "Piet Mondrian",
+    "year": 1930,
+    "country": "Netherlands",
+    "position": {
+      "lat": 52.3,
+      "lng": 5
+    },
+    "priority": "low",
+    "thumbnail": "/paintings/mondrian.jpg",
+    "image": "/paintings/mondrian.jpg"
+  },
+  {
+    "title": "构图七号",
+    "artist": "Wassily Kandinsky",
+    "year": 1913,
+    "country": "Russia",
+    "position": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "priority": "low",
+    "thumbnail": "/paintings/composition-7.jpg",
+    "image": "/paintings/composition-7.jpg"
+  },
+  {
+    "title": "春",
+    "artist": "Sandro Botticelli",
+    "year": 1482,
+    "country": "Italy",
+    "position": {
+      "lat": 43.7696,
+      "lng": 11.2558
+    },
+    "priority": "low",
+    "thumbnail": "/paintings/primavera.jpg",
+    "image": "/paintings/primavera.jpg"
+  },
+  {
+    "title": "夜间咖啡馆",
+    "artist": "Vincent van Gogh",
+    "year": 1888,
+    "country": "Netherlands",
+    "position": {
+      "lat": 52,
+      "lng": 4.5
+    },
+    "priority": "low",
+    "thumbnail": "/paintings/night-cafe.jpg",
+    "image": "/paintings/night-cafe.jpg"
+  },
+  {
+    "title": "千里江山图",
+    "artist": "王希孟",
+    "year": 1113,
+    "country": "China",
+    "position": {
+      "lat": 39.916,
+      "lng": 116.397
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/qianli-jiangshan.jpg",
+    "image": "/paintings/qianli-jiangshan.jpg"
+  },
+  {
+    "title": "清明上河图",
+    "artist": "张择端",
+    "year": 1101,
+    "country": "China",
+    "position": {
+      "lat": 39.918,
+      "lng": 116.395
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/qingming-shanghe.jpg",
+    "image": "/paintings/qingming-shanghe.jpg"
+  },
+  {
+    "title": "韩熙载夜宴图",
+    "artist": "顾闳中",
+    "year": 970,
+    "country": "China",
+    "position": {
+      "lat": 39.914,
+      "lng": 116.399
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/hanxizai-yeyan.jpg",
+    "image": "/paintings/hanxizai-yeyan.jpg"
+  },
+  {
+    "title": "富春山居图",
+    "artist": "黄公望",
+    "year": 1350,
+    "country": "China",
+    "position": {
+      "lat": 30.249,
+      "lng": 120.174
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/fuchun-shanju.jpg",
+    "image": "/paintings/fuchun-shanju.jpg"
+  },
+  {
+    "title": "洛神赋图",
+    "artist": "顾恺之",
+    "year": 380,
+    "country": "China",
+    "position": {
+      "lat": 39.92,
+      "lng": 116.393
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/luoshen-fu.jpeg",
+    "image": "/paintings/luoshen-fu.jpeg"
+  },
+  {
+    "title": "步辇图",
+    "artist": "阎立本",
+    "year": 640,
+    "country": "China",
+    "position": {
+      "lat": 39.912,
+      "lng": 116.401
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/bunian-tu.jpg",
+    "image": "/paintings/bunian-tu.jpg"
+  },
+  {
+    "title": "溪山行旅图",
+    "artist": "范宽",
+    "year": 1000,
+    "country": "China",
+    "position": {
+      "lat": 25.037,
+      "lng": 121.564
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/xishan-xinglu.jpg",
+    "image": "/paintings/xishan-xinglu.jpg"
+  },
+  {
+    "title": "簪花仕女图",
+    "artist": "周昉",
+    "year": 780,
+    "country": "China",
+    "position": {
+      "lat": 41.796,
+      "lng": 123.43
+    },
+    "priority": "low",
+    "thumbnail": "/paintings/zanhua-shinv.jpg",
+    "image": "/paintings/zanhua-shinv.jpg"
+  },
+  {
+    "title": "墨葡萄图",
+    "artist": "徐渭",
+    "year": 1580,
+    "country": "China",
+    "position": {
+      "lat": 32.043,
+      "lng": 118.822
+    },
+    "priority": "low",
+    "thumbnail": "/paintings/mo-putao.jpg",
+    "image": "/paintings/mo-putao.jpg"
+  },
+  {
+    "title": "马球图",
+    "artist": "佚名（唐代画师）",
+    "year": 706,
+    "country": "China",
+    "position": {
+      "lat": 34.26,
+      "lng": 108.94
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/maqiu-tu.jpg",
+    "image": "/paintings/maqiu-tu.jpg"
+  },
+  {
+    "title": "鹿王本生图",
+    "artist": "佚名（北魏画师）",
+    "year": 450,
+    "country": "China",
+    "position": {
+      "lat": 40.04,
+      "lng": 94.81
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/luwang-bensheng.jpg",
+    "image": "/paintings/luwang-bensheng.jpg"
+  },
+  {
+    "title": "竹石图",
+    "artist": "郑板桥",
+    "year": 1750,
+    "country": "China",
+    "position": {
+      "lat": 39.91,
+      "lng": 116.403
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/zhushi-tu.jpg",
+    "image": "/paintings/zhushi-tu.jpg"
+  },
+  {
+    "title": "高士图",
+    "artist": "卫贤",
+    "year": 950,
+    "country": "China",
+    "position": {
+      "lat": 39.922,
+      "lng": 116.389
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/gaoshi-tu.jpg",
+    "image": "/paintings/gaoshi-tu.jpg"
+  },
+  {
+    "title": "狮子林",
+    "artist": "吴冠中",
+    "year": 1985,
+    "country": "China",
+    "position": {
+      "lat": 31.23,
+      "lng": 121.47
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/shizilin.jpg",
+    "image": "/paintings/shizilin.jpg"
+  },
+  {
+    "title": "风神雷神图屏风",
+    "artist": "俵屋宗达",
+    "year": 1624,
+    "country": "Japan",
+    "position": {
+      "lat": 35.011,
+      "lng": 135.768
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/fujin-raijin.jpg",
+    "image": "/paintings/fujin-raijin.jpg"
+  },
+  {
+    "title": "檀园风俗图帖",
+    "artist": "金弘道",
+    "year": 1790,
+    "country": "South Korea",
+    "position": {
+      "lat": 37.566,
+      "lng": 126.978
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/danwon-pungsok.jpg",
+    "image": "/paintings/danwon-pungsok.jpg"
+  },
+  {
+    "title": "Padmapani Bodhisattva",
+    "artist": "佚名（阿旃陀画师）",
+    "year": 450,
+    "country": "India",
+    "position": {
+      "lat": 20.553,
+      "lng": 75.703
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/padmapani.jpg",
+    "image": "/paintings/padmapani.jpg"
+  },
+  {
+    "title": "列王纪细密画",
+    "artist": "佚名（波斯画师）",
+    "year": 1400,
+    "country": "Iran",
+    "position": {
+      "lat": 35.689,
+      "lng": 51.389
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/shahnameh-mini.jpg",
+    "image": "/paintings/shahnameh-mini.jpg"
+  },
+  {
+    "title": "The Tortoise Trainer",
+    "artist": "Osman Hamdi Bey",
+    "year": 1906,
+    "country": "Turkey",
+    "position": {
+      "lat": 41.008,
+      "lng": 28.978
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/tortoise-trainer.jpg",
+    "image": "/paintings/tortoise-trainer.jpg"
+  },
+  {
+    "title": "罗摩衍那壁画",
+    "artist": "佚名（泰国王室画师）",
+    "year": 1800,
+    "country": "Thailand",
+    "position": {
+      "lat": 13.756,
+      "lng": 100.502
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/ramayana-thai.jpg",
+    "image": "/paintings/ramayana-thai.jpg"
+  },
+  {
+    "title": "Em Thúy",
+    "artist": "Tran Van Can",
+    "year": 1943,
+    "country": "Vietnam",
+    "position": {
+      "lat": 21.028,
+      "lng": 105.854
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/em-thuy.jpg",
+    "image": "/paintings/em-thuy.jpg"
+  },
+  {
+    "title": "One Day in Mongolia",
+    "artist": "B. Sharav",
+    "year": 1910,
+    "country": "Mongolia",
+    "position": {
+      "lat": 47.918,
+      "lng": 106.918
+    },
+    "priority": "low",
+    "thumbnail": "/paintings/one-day-mongolia.jpg",
+    "image": "/paintings/one-day-mongolia.jpg"
+  },
+  {
+    "title": "胜乐金刚曼荼罗",
+    "artist": "佚名（尼泊尔画师）",
+    "year": 1600,
+    "country": "Nepal",
+    "position": {
+      "lat": 27.717,
+      "lng": 85.324
+    },
+    "priority": "low",
+    "thumbnail": "/paintings/chakrasamvara.jpg",
+    "image": "/paintings/chakrasamvara.jpg"
+  },
+  {
+    "title": "Kamasan Ramayana Painting",
+    "artist": "佚名（巴厘画师）",
+    "year": 1800,
+    "country": "Indonesia",
+    "position": {
+      "lat": -8.506,
+      "lng": 115.263
+    },
+    "priority": "low",
+    "thumbnail": "/paintings/kamasan-ramayana.jpg",
+    "image": "/paintings/kamasan-ramayana.jpg"
+  },
+  {
+    "title": "Spoliarium",
+    "artist": "Juan Luna",
+    "year": 1884,
+    "country": "Philippines",
+    "position": {
+      "lat": 14.599,
+      "lng": 120.984
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/spoliarium.jpg",
+    "image": "/paintings/spoliarium.jpg"
+  },
+  {
+    "title": "黄·红·蓝",
+    "artist": "Wassily Kandinsky",
+    "year": 1925,
+    "country": "Russia",
+    "position": {
+      "lat": 56.01,
+      "lng": 92.85
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/yellow-red-blue.jpg",
+    "image": "/paintings/yellow-red-blue.jpg"
+  },
+  {
+    "title": "构成第八号",
+    "artist": "Wassily Kandinsky",
+    "year": 1923,
+    "country": "Russia",
+    "position": {
+      "lat": 56.02,
+      "lng": 92.88
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/composition-viii.jpg",
+    "image": "/paintings/composition-viii.jpg"
+  },
+  {
+    "title": "Nighthawks",
+    "artist": "Edward Hopper",
+    "year": 1942,
+    "country": "United States of America",
+    "position": {
+      "lat": 41.88,
+      "lng": -87.62
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/nighthawks.jpg",
+    "image": "/paintings/nighthawks.jpg"
+  },
+  {
+    "title": "American Gothic",
+    "artist": "Grant Wood",
+    "year": 1930,
+    "country": "United States of America",
+    "position": {
+      "lat": 41.96,
+      "lng": -87.66
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/american-gothic.jpg",
+    "image": "/paintings/american-gothic.jpg"
+  },
+  {
+    "title": "Christina's World",
+    "artist": "Andrew Wyeth",
+    "year": 1948,
+    "country": "United States of America",
+    "position": {
+      "lat": 44.1,
+      "lng": -69.3
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/christinas-world.jpg",
+    "image": "/paintings/christinas-world.jpg"
+  },
+  {
+    "title": "Blue Poles",
+    "artist": "Jackson Pollock",
+    "year": 1952,
+    "country": "United States of America",
+    "position": {
+      "lat": 40.73,
+      "lng": -74
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/blue-poles.jpg",
+    "image": "/paintings/blue-poles.jpg"
+  },
+  {
+    "title": "Campbell's Soup Cans",
+    "artist": "Andy Warhol",
+    "year": 1962,
+    "country": "United States of America",
+    "position": {
+      "lat": 40.78,
+      "lng": -73.96
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/campbells-soup.jpg",
+    "image": "/paintings/campbells-soup.jpg"
+  },
+  {
+    "title": "The Gross Clinic",
+    "artist": "Thomas Eakins",
+    "year": 1875,
+    "country": "United States of America",
+    "position": {
+      "lat": 39.95,
+      "lng": -75.17
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/gross-clinic.jpg",
+    "image": "/paintings/gross-clinic.jpg"
+  },
+  {
+    "title": "Among the Sierra Nevada",
+    "artist": "Albert Bierstadt",
+    "year": 1868,
+    "country": "United States of America",
+    "position": {
+      "lat": 38.58,
+      "lng": -121.49
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/sierra-nevada.jpg",
+    "image": "/paintings/sierra-nevada.jpg"
+  },
+  {
+    "title": "The Jack Pine",
+    "artist": "Tom Thomson",
+    "year": 1917,
+    "country": "Canada",
+    "position": {
+      "lat": 45.42,
+      "lng": -75.69
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/jack-pine.jpg",
+    "image": "/paintings/jack-pine.jpg"
+  },
+  {
+    "title": "North Shore, Lake Superior",
+    "artist": "Lawren Harris",
+    "year": 1926,
+    "country": "Canada",
+    "position": {
+      "lat": 48.43,
+      "lng": -89.22
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/north-shore.jpg",
+    "image": "/paintings/north-shore.jpg"
+  },
+  {
+    "title": "The West Wind",
+    "artist": "Tom Thomson",
+    "year": 1917,
+    "country": "Canada",
+    "position": {
+      "lat": 45.43,
+      "lng": -75.7
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/west-wind.jpg",
+    "image": "/paintings/west-wind.jpg"
+  },
+  {
+    "title": "Church at Yuquot Village",
+    "artist": "Emily Carr",
+    "year": 1929,
+    "country": "Canada",
+    "position": {
+      "lat": 49.59,
+      "lng": -126.62
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/yuquot-church.jpg",
+    "image": "/paintings/yuquot-church.jpg"
+  },
+  {
+    "title": "Voice of Fire",
+    "artist": "Barnett Newman",
+    "year": 1967,
+    "country": "United States of America",
+    "position": {
+      "lat": 45.429,
+      "lng": -75.695
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/voice-of-fire.jpg",
+    "image": "/paintings/voice-of-fire.jpg"
+  },
+  {
+    "title": "亡灵书",
+    "artist": "佚名（古埃及书吏）",
+    "year": -1250,
+    "country": "Egypt",
+    "position": {
+      "lat": 30.04,
+      "lng": 31.24
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/book-of-dead.jpg",
+    "image": "/paintings/book-of-dead.jpg"
+  },
+  {
+    "title": "沼泽地捕鸟图",
+    "artist": "佚名（古埃及画师）",
+    "year": -1350,
+    "country": "Egypt",
+    "position": {
+      "lat": 30.05,
+      "lng": 31.25
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/fowling-marshes.jpg",
+    "image": "/paintings/fowling-marshes.jpg"
+  },
+  {
+    "title": "圣母子三联彩画",
+    "artist": "佚名（埃塞俄比亚画师）",
+    "year": 1600,
+    "country": "Ethiopia",
+    "position": {
+      "lat": 9.03,
+      "lng": 38.76
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/ethiopian-triptych.jpg",
+    "image": "/paintings/ethiopian-triptych.jpg"
+  },
+  {
+    "title": "The Black Christ",
+    "artist": "Ronald Harrison",
+    "year": 1962,
+    "country": "South Africa",
+    "position": {
+      "lat": -26.2,
+      "lng": 28.05
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/black-christ.jpg",
+    "image": "/paintings/black-christ.jpg"
+  },
+  {
+    "title": "Tingatinga Painting",
+    "artist": "Edward Saidi Tingatinga",
+    "year": 1970,
+    "country": "Tanzania",
+    "position": {
+      "lat": -6.79,
+      "lng": 39.21
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/tingatinga.jpg",
+    "image": "/paintings/tingatinga.jpg"
+  },
+  {
+    "title": "The Two Fridas",
+    "artist": "Frida Kahlo",
+    "year": 1939,
+    "country": "Mexico",
+    "position": {
+      "lat": 19.43,
+      "lng": -99.13
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/two-fridas.jpg",
+    "image": "/paintings/two-fridas.jpg"
+  },
+  {
+    "title": "Man at the Crossroads",
+    "artist": "Diego Rivera",
+    "year": 1934,
+    "country": "Mexico",
+    "position": {
+      "lat": 19.44,
+      "lng": -99.14
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/man-crossroads.JPG",
+    "image": "/paintings/man-crossroads.JPG"
+  },
+  {
+    "title": "Abaporu",
+    "artist": "Tarsila do Amaral",
+    "year": 1928,
+    "country": "Brazil",
+    "position": {
+      "lat": -23.55,
+      "lng": -46.63
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/abaporu.jpg",
+    "image": "/paintings/abaporu.jpg"
+  },
+  {
+    "title": "Operários",
+    "artist": "Tarsila do Amaral",
+    "year": 1933,
+    "country": "Brazil",
+    "position": {
+      "lat": -23.56,
+      "lng": -46.64
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/operarios.jpg",
+    "image": "/paintings/operarios.jpg"
+  },
+  {
+    "title": "Manifestación",
+    "artist": "Antonio Berni",
+    "year": 1934,
+    "country": "Argentina",
+    "position": {
+      "lat": -34.6,
+      "lng": -58.38
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/manifestacion.jpg",
+    "image": "/paintings/manifestacion.jpg"
+  },
+  {
+    "title": "Sans titre",
+    "artist": "Roberto Matta",
+    "year": 1950,
+    "country": "Chile",
+    "position": {
+      "lat": -33.45,
+      "lng": -70.65
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/matta-sans-titre.webp",
+    "image": "/paintings/matta-sans-titre.webp"
+  },
+  {
+    "title": "Cusco School Angel",
+    "artist": "佚名（库斯科画派）",
+    "year": 1700,
+    "country": "Peru",
+    "position": {
+      "lat": -12.05,
+      "lng": -77.04
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/cusco-angel.jpg",
+    "image": "/paintings/cusco-angel.jpg"
+  },
+  {
+    "title": "Mona Lisa, Age Twelve",
+    "artist": "Fernando Botero",
+    "year": 1959,
+    "country": "Colombia",
+    "position": {
+      "lat": 4.71,
+      "lng": -74.07
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/botero-monalisa.jpg",
+    "image": "/paintings/botero-monalisa.jpg"
+  },
+  {
+    "title": "Constructive Composition",
+    "artist": "Joaquín Torres-García",
+    "year": 1932,
+    "country": "Uruguay",
+    "position": {
+      "lat": -34.9,
+      "lng": -56.16
+    },
+    "priority": "low",
+    "thumbnail": "/paintings/torres-garcia.jpg",
+    "image": "/paintings/torres-garcia.jpg"
+  },
+  {
+    "title": "The Accident",
+    "artist": "Oswaldo Guayasamín",
+    "year": 1950,
+    "country": "Ecuador",
+    "position": {
+      "lat": -0.18,
+      "lng": -78.47
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/guayasamin-accident.jpg",
+    "image": "/paintings/guayasamin-accident.jpg"
+  },
+  {
+    "title": "Fire's On",
+    "artist": "Arthur Streeton",
+    "year": 1891,
+    "country": "Australia",
+    "position": {
+      "lat": -33.56,
+      "lng": 150.24
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/fires-on.jpg",
+    "image": "/paintings/fires-on.jpg"
+  },
+  {
+    "title": "Shearing the Rams",
+    "artist": "Tom Roberts",
+    "year": 1890,
+    "country": "Australia",
+    "position": {
+      "lat": -37.56,
+      "lng": 143.86
+    },
+    "priority": "high",
+    "thumbnail": "/paintings/shearing-rams.jpg",
+    "image": "/paintings/shearing-rams.jpg"
+  },
+  {
+    "title": "Purple Noon's Transparent Might",
+    "artist": "Brett Whiteley",
+    "year": 1976,
+    "country": "Australia",
+    "position": {
+      "lat": -33.87,
+      "lng": 151.21
+    },
+    "priority": "medium",
+    "thumbnail": "/paintings/purple-noon.jpg",
+    "image": "/paintings/purple-noon.jpg"
+  }
+]
