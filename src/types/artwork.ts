@@ -28,9 +28,9 @@ export interface Artwork {
 
   tags: string[]
 
-  importance: Importance
+  importance?: Importance
 
-  comments: ArtworkComment[]
+  comments?: ArtworkComment[]
 }
 
 /** 用于 Marker 节点的精简版 */

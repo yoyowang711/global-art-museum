@@ -50,9 +50,9 @@ export async function loadLandData(): Promise<LandData> {
       coordinates: number[][][] | number[][][][]
     }
 
-    const polys: number[][][] = type === 'Polygon'
+    const polys = (type === 'Polygon'
       ? [coordinates[0]]
-      : coordinates.map((c: number[][][]) => c[0])
+      : (coordinates as number[][][][]).map((c) => c[0])) as number[][][]
 
     for (const ring of polys) {
       if (ring.length < 3) continue

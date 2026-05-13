@@ -36,8 +36,9 @@ export async function fetchLandData(): Promise<LandGeometry[]> {
   const geojson = feature(topology, topology.objects.land)
 
   cached = geojson.features.map((f) => {
-    const coords =
-      f.geometry.type === 'MultiPolygon' ? f.geometry.coordinates.flat() : f.geometry.coordinates
+    const coords = (f.geometry as any).type === 'MultiPolygon'
+      ? (f.geometry as any).coordinates.flat()
+      : (f.geometry as any).coordinates
     const rings3D: Float32Array[] = []
     const ringsLL: [number, number][][] = []
     let minLng = Infinity, maxLng = -Infinity, minLat = Infinity, maxLat = -Infinity
